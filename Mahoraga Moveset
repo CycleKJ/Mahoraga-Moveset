@@ -430,7 +430,7 @@ end
  
 humanoid.AnimationPlayed:Connect(onAnimationPlayed)
  
-local animationId = 17862992081---- in order for the ult
+local animationId = 15507137974---- in order for the ult
  
  
 local player = game.Players.LocalPlayer
